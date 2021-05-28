@@ -33,9 +33,9 @@ Ruby C APIやRubyGemsなど：
 *  [bundle gem - (Bundler)](https://bundler.io/v2.2/man/bundle-gem.1.html)
 
 書籍：
-*  [プログラミングRuby 第2版 言語編 | Ohmsha](https://www.ohmsha.co.jp/book/9784274066429/)
-*  [パーフェクトRuby｜技術評論社](https://gihyo.jp/book/2013/978-4-7741-5879-2)
-*  [オブジェクト指向スクリプト言語 Ruby | アスキー](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E8%A8%80%E8%AA%9E-ASCII-SOFTWARE-SCIENCE-Language/dp/4756132545/)
+*  [プログラミングRuby 第2版 言語編 - Ohmsha](https://www.ohmsha.co.jp/book/9784274066429/)
+*  [パーフェクトRuby - 技術評論社](https://gihyo.jp/book/2013/978-4-7741-5879-2)
+*  [オブジェクト指向スクリプト言語 Ruby - アスキー](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E8%A8%80%E8%AA%9E-ASCII-SOFTWARE-SCIENCE-Language/dp/4756132545/)
 
 ---
 
