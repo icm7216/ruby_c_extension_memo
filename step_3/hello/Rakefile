@@ -1,0 +1,21 @@
+require "rake/extensiontask"
+
+Rake::ExtensionTask.new("hello") do |ext|
+  ext.lib_dir = "lib/hello"
+end
+
+require 'rake/packagetask'
+
+spec = Gem::Specification.new do |s|
+  s.name        = "hello"
+  s.version     = "0.0.0"
+  s.summary     = "This is Hello example!"
+  s.authors     = ["Hello author"]
+  s.homepage    = "https://rubygems.org/gems/example"
+  s.licenses    = ["MIT"]
+  s.files       = FileList["{lib,ext}/**/*", "Rakefile"]
+  s.extensions  = FileList["ext/**/extconf.rb"]
+end
+
+Gem::PackageTask.new(spec) do |pkg|
+end
